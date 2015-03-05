@@ -1,16 +1,8 @@
-gulp-istanbul [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][depstat-image]][depstat-url]
-===========================
 
-[Istanbul][istanbul] unit test coverage plugin for [gulp][gulp].
+
+[Istanbul-harmony][istanbul-harmony] unit test coverage plugin for [gulp][gulp].
 
 Works on top of any Node.js unit test framework.
-
-Installation
----------------
-
-```shell
-npm install --save-dev gulp-istanbul
-```
 
 Example
 ---------------
